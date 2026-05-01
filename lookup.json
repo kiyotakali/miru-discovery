@@ -1,0 +1,5 @@
+{
+  "backend_url": "https://mirulife.top",
+  "updated_at": "2026-05-01T00:00:00Z",
+  "comment": "Miru client discovery endpoint. To rotate VPS, edit backend_url and push to main; CDN refreshes within 60s."
+}
